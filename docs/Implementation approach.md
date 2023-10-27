@@ -184,7 +184,7 @@ The recommended product already supports the roaming signatures of Exchange Onli
 The service provider recommends the free open source software Set-OutlookSignatures with the chargeable "Benefactor Circle" extension after a survey of the customer requirements and tests of several server- and client-based products and offers its customers support during introduction and operation.  
 
 This document provides an overview of the functional scope and administration of the recommended solution, support of the service provider during introduction and operation, as well as associated expenses.
-### 1.6.1. Allgemeine Beschreibung, Lizenzmodell  
+### 1.6.1. General description, license model
 <a href="https://github.com/Set-OutlookSignatures/Set-OutlookSignatures" target="_blank">Set-OutlookSignatures</a> is a free open-source product with a chargeable extension for company-relevant functions.
 
 The product is used for the central administration and local distribution of textual signatures and out of office replies to clients. Outlook on Windows is supported as the target platform.
